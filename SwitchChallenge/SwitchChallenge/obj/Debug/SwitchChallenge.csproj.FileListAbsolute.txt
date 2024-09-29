@@ -1,0 +1,7 @@
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe.config
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.pdb
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.AssemblyReference.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.pdb
