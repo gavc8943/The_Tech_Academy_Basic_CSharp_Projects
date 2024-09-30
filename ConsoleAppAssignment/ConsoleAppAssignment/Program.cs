@@ -50,11 +50,11 @@ namespace ConsoleAppAssignment
 
             //Console.Read();
 
-            int num = 0;
-            while (num < 8)
+            int num = 0;  // Create variable
+            while (num < 8) // while loop , while number is less than 8 ,keep incrementing by 1
             {
                 Console.WriteLine(num);
-                num++;
+                num++; // keep incrementing by 1
             }
             Console.Read();
         }
