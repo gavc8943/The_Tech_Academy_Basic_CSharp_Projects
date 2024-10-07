@@ -1,0 +1,7 @@
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\ArraysAndLists2\ArraysAndLists2\bin\Debug\ArraysAndLists2.exe.config
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\ArraysAndLists2\ArraysAndLists2\bin\Debug\ArraysAndLists2.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\ArraysAndLists2\ArraysAndLists2\bin\Debug\ArraysAndLists2.pdb
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C-_Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.pdb
