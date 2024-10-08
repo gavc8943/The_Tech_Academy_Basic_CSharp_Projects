@@ -72,33 +72,108 @@ using System.Collections.Generic;
         //}
         //Console.ReadLine();
 
-        List<string> myStringList = new List<string>();   // creating a list
-        myStringList.Add("Hello");
-        myStringList.Add("Nice to meet you");
-        myStringList.Add("Hows things?");
-        myStringList.Add("Long time no see");
-        Console.WriteLine("Please choose a number 0 to 3");
-        int yourNum = Convert.ToInt32(Console.ReadLine());    // Converts to integer
+        //List<string> myStringList = new List<string>();   // creating a list
+        //myStringList.Add("Hello");
+        //myStringList.Add("Nice to meet you");
+        //myStringList.Add("Hows things?");
+        //myStringList.Add("Long time no see");
+        //Console.WriteLine("Please choose a number 0 to 3");
+        //int yourNum = Convert.ToInt32(Console.ReadLine());    // Converts to integer
 
-        if (yourNum == 0)
+        //if (yourNum == 0)
+        //{
+        //    Console.WriteLine(myStringList[0]);
+        //}
+        //else if (yourNum == 1)
+        //{
+        //    Console.WriteLine(myStringList[1]);
+        //}
+        //else if (yourNum == 2)
+        //{
+        //    Console.WriteLine(myStringList[2]);
+        //}
+        //else if (yourNum == 3)
+        //{
+        //    Console.WriteLine(myStringList[3]);
+        //}
+        //else
+        //{
+        //    Console.WriteLine("Only a number from 0 to 3 please");
+        //}
+        //Console.ReadLine();
+
+        /////////////////////////////////////// Model answer variation ////////////////////////////////
+
+        //string[] fruitArray = { "Apple", "Banana", "Cherry", "Orange", "Plum", "Pineapple" };  // create string array
+        //Console.WriteLine("Please choose a number between 0 and 5");
+        //int yourChosenNumber = Convert.ToInt32(Console.ReadLine());  // get user number
+        //bool validString = false;
+
+        //while (!validString)
+        //{
+        //     try
+        //    {
+        //        Console.WriteLine("Your favorite fruit is " + fruitArray[yourChosenNumber]);
+        //        validString = true;
+        //    }
+        //     catch
+        //    {
+        //        Console.WriteLine("Only numbers from 0 to 5 please");
+        //        yourChosenNumber = Convert.ToInt32(Console.ReadLine());
+        //    }
+        //    Console.ReadLine();
+
+        //    int[] integerArray = { 7,23,56,45,3,67, };
+        //    Console.WriteLine("Please choose a number between 0 and 5");
+        //    int yourChosenInt = Convert.ToInt32(Console.ReadLine());
+        //    bool validInt = false;
+
+        //    while (!validInt)
+        //    {
+        //        try
+        //        {
+        //            Console.WriteLine("Your favorite number is " + integerArray[yourChosenInt]);
+        //            validInt = true;
+        //        }
+        //        catch
+        //        {
+        //            Console.WriteLine("Only numbers from 0 to 5 please");
+        //            yourChosenInt = Convert.ToInt32(Console.ReadLine());
+        //        }
+        //    }
+        //Console.ReadLine();
+
+        ////// String list
+
+        List<string> favSingerList = new List<string>()
         {
-            Console.WriteLine(myStringList[0]);
-        }
-        else if (yourNum == 1)
+            "Bob Dylan",
+            "Robert Plant",
+            "George Michael",
+            "Freddie Mercury",
+            "Elton John",
+            "Celine Dion",
+            "Whitney Houston",
+            "Elvis"
+        };
+        // Ask user for an index number
+        Console.WriteLine("Please select a number between 0 and 7");
+        int indexNum = Convert.ToInt32(Console.ReadLine());
+        bool validIndexNum = false;
+
+        while(!validIndexNum)
         {
-            Console.WriteLine(myStringList[1]);
-        }
-        else if (yourNum == 2)
-        {
-            Console.WriteLine(myStringList[2]);
-        }
-        else if (yourNum == 3)
-        {
-            Console.WriteLine(myStringList[3]);
-        }
-        else
-        {
-            Console.WriteLine("Only a number from 0 to 3 please");
+            try
+            {
+                Console.WriteLine("Your favorite singer is " + favSingerList[indexNum]);
+                validIndexNum = true;
+            }
+            catch
+            {
+                Console.WriteLine("Only a number between 0 and 7 please.");
+                indexNum = Convert.ToInt32(Console.ReadLine());
+
+            }
         }
         Console.ReadLine();
     }
