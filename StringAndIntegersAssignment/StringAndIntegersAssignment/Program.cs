@@ -59,7 +59,7 @@ namespace StringAndIntegersAssignment
                         foreach(int num in intList2)
                         {
                             float Divide = num / numDivide;
-                            Console.WriteLine(num + "/" + numDivide + "=" + Divide);
+                            Console.WriteLine(num + "/" + numDivide + " = " + Divide);
                         }
                         numValid = true;
                     }
