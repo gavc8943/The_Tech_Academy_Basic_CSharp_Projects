@@ -1,0 +1,7 @@
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe.config
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.pdb
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.pdb

@@ -8,7 +8,7 @@ namespace MethodAssignment
 {
     public class MathMethod
     { 
-        public int mathMethod( int a , int b = 3)
+        public int mathMethod( int a , int b = 1)
         {
             int result = a * b;
             return result;
