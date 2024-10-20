@@ -1,0 +1,7 @@
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\ClassMethodAssignment2\ClassMethodAssignment2\bin\Debug\ClassMethodAssignment2.exe.config
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\ClassMethodAssignment2\ClassMethodAssignment2\bin\Debug\ClassMethodAssignment2.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\ClassMethodAssignment2\ClassMethodAssignment2\bin\Debug\ClassMethodAssignment2.pdb
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\ClassMethodAssignment2\ClassMethodAssignment2\obj\Debug\ClassMethodAssignment2.pdb
