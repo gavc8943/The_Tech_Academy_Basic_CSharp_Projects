@@ -12,8 +12,8 @@ namespace MethodClassAssignment
         {
             // Instantiate the class
             MathOperation mathOp = new MathOperation();
-            //mathOp.myMethod(5, 6);
-             mathOp.myMethod(b:3,c:7) ;
+            mathOp.myMethod(5, 6); // call the method with two numbers
+            mathOp.myMethod(b:3,c:7) ; // call the method specifying the parameters by name
         }
     }
 }
