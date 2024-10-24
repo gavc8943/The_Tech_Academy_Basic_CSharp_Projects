@@ -11,9 +11,18 @@ namespace AbstractClassAssignment
         static void Main(string[] args)
         {
             // Instantiate Employee Object
-
+            
             Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
-            employee.SayName(); // Call the same name method on the object
+            employee.SayName(); // Call the Sayname method on the object
+
+            Salary salary = new Salary();
+            salary.pay();
+
+            IQuittable quittable = new Salary();
+            salary.Quit();
+            
+
+            employee.Quit(); // calling the Quit method
             Console.ReadLine();
         }
     }
