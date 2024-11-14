@@ -1,0 +1,10 @@
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\User\Documents\The_Tech_Acaqdemy_Basic_C#_Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
