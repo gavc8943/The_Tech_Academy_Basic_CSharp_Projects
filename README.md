@@ -1,4 +1,4 @@
-# The_Tech_Acaqdemy_Basic_C-_Projects
+# The_Tech_Acaqdemy_Basic_C#_Projects
 
 C# Projects
 These are some small projects I made with C# and .Net Framework
