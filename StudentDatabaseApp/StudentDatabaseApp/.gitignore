@@ -1,0 +1,18 @@
+﻿# Build and output directories
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Database files
+*.mdf
+*.ldf
+
+# Visual Studio cache
+.vs/
